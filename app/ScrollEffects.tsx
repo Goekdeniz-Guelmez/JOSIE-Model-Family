@@ -31,7 +31,7 @@ export default function ScrollEffects() {
     revealed.forEach((element) => observer.observe(element));
 
     void import("locomotive-scroll").then(({ default: LocomotiveScroll }) => {
-      scroll = new LocomotiveScroll({ smoothWheel: true, lerp: 0.075 });
+      scroll = new LocomotiveScroll({ lenisOptions: { smoothWheel: true, lerp: 0.075 } });
       window.setTimeout(() => scroll?.resize?.(), 250);
     });
 
