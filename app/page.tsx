@@ -137,7 +137,11 @@ export default function Home() {
 
       <header className="hero shell">
         <div className="heroImage" data-scroll data-scroll-speed="0.24">
-          <img src={publicAsset("josie-orange.png")} alt="JOSIE tree logo glowing against an orange field" />
+          <img className="heroBackdrop" src={publicAsset("josie-orange.png")} alt="JOSIE tree logo glowing against an orange field" />
+          <div className="heroLogoAura" aria-hidden="true" />
+          <div className="heroLogoStage" aria-hidden="true">
+            <img className="heroLogoMark" src={publicAsset("02-calm-breeze-transparent.svg")} alt="" />
+          </div>
           <div className="heroStamp">Independent model research<br />Est. 2024</div>
         </div>
         <div className="heroTitle" data-reveal>
@@ -175,7 +179,7 @@ export default function Home() {
             {josieTwoModels.map((model) => (
               <article className="modelCard" data-reveal key={model.size}>
                 <div className="modelSize">{model.size}</div>
-            <img className="modelTree" src={publicAsset(model.tree)} alt={model.treeAlt} />
+                <img className="modelTree" src={publicAsset(model.tree)} alt={model.treeAlt} />
                 <p>{model.note}</p>
                 <h3>{model.name}</h3>
                 <span className="modelRule" />
