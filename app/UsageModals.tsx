@@ -3,82 +3,49 @@
 import { useRef, useState } from "react";
 
 const models = [
-  "Goekdeniz-Guelmez/JOSIE-2-4B-Preview",
-  "Goekdeniz-Guelmez/JOSIE-2-2B-OSS",
-  "Goekdeniz-Guelmez/JOSIE-2-4B-OSS",
-  "Goekdeniz-Guelmez/JOSIE-2-9B-OSS",
+  "josie-labs/JOSIE-3-0.8B-OSS",
+  "josie-labs/JOSIE-3-2B-OSS",
+  "josie-labs/JOSIE-3-4B-OSS",
+  "josie-labs/JOSIE-3-9B-OSS",
 ];
 
-const settings = [
-  ["max_tokens", "16384"],
-  ["temperature", "0.2"],
-  ["top_p", "0.95"],
-  ["top_k", "20"],
-  ["min_p", "0.0"],
-  ["repetition_penalty", "1.05"],
-  ["presence_penalty", "0.0"],
-];
+const depths = ["none", "low", "medium", "high", "ultra"] as const;
+type Depth = (typeof depths)[number];
+
+const templateArg = (depth: Depth) =>
+  depth === "none" ? "enable_thinking=False" : `reasoning_effort="${depth}"`;
 
 const snippets = {
-  transformers: (model: string) => `from transformers import pipeline
+  transformers: (model: string, depth: Depth) => `from transformers import AutoModelForImageTextToText, AutoProcessor
 
 model_id = "${model}"
+processor = AutoProcessor.from_pretrained(model_id)
+model = AutoModelForImageTextToText.from_pretrained(model_id, dtype="auto", device_map="auto")
 
-generator = pipeline(
-    "text-generation",
-    model=model_id,
-    device_map="auto",
-    torch_dtype="auto",
-)
-
-messages = [
-    {"role": "user", "content": "Introduce yourself in one sentence."}
-]
-
-response = generator(
+messages = [{"role": "user", "content": [{"type": "text", "text": "Introduce yourself in one sentence."}]}]
+inputs = processor.apply_chat_template(
     messages,
-    max_new_tokens=16384,
-    do_sample=True,
-    temperature=0.2,
-    top_p=0.95,
-    top_k=20,
-    min_p=0.0,
-    repetition_penalty=1.05,
-)
-print(response[0]["generated_text"][-1]["content"])`,
-  mlx: (model: string) => `from mlx_lm import load, generate
-from mlx_lm.sample_utils import make_logits_processors, make_sampler
-
-model_id = "${model}"
-model, tokenizer = load(model_id)
-
-prompt = tokenizer.apply_chat_template(
-    [{"role": "user", "content": "Introduce yourself in one sentence."}],
-    tokenize=False,
     add_generation_prompt=True,
-)
+    tokenize=True,
+    return_dict=True,
+    return_tensors="pt",
+    ${templateArg(depth)},
+).to(model.device)
 
-sampler = make_sampler(
-    temp=0.2,
-    top_p=0.95,
-    top_k=20,
-    min_p=0.0,
-)
-logits_processors = make_logits_processors(
-    logit_bias=None,
-    repetition_penalty=1.05,
-    repetition_context_size=20,
-)
+out = model.generate(**inputs, max_new_tokens=8192)
+print(processor.decode(out[0][inputs["input_ids"].shape[1]:]))`,
+  mlx: (model: string, depth: Depth) => `# pip install -U mlx-vlm
+from mlx_vlm import load, generate
+from mlx_vlm.prompt_utils import apply_chat_template
 
-response = generate(
-    model,
-    tokenizer,
-    prompt=prompt,
-    max_tokens=16384,
-    sampler=sampler,
-    logits_processors=logits_processors,
+model, processor = load("${model}")
+prompt = apply_chat_template(
+    processor,
+    model.config,
+    "Introduce yourself in one sentence.",
+    ${templateArg(depth)},
 )
-print(response)`,
+print(generate(model, processor, prompt, max_tokens=8192).text)`,
 };
 
 type UsageKind = keyof typeof snippets;
@@ -87,8 +54,9 @@ export default function UsageModals() {
   const dialogRef = useRef<HTMLDialogElement>(null);
   const [active, setActive] = useState<UsageKind>("transformers");
   const [model, setModel] = useState(models[0]);
+  const [depth, setDepth] = useState<Depth>("medium");
   const [copied, setCopied] = useState(false);
-  const currentSnippet = snippets[active](model);
+  const currentSnippet = snippets[active](model, depth);
 
   const open = (kind: UsageKind) => {
     setActive(kind);
@@ -103,7 +71,7 @@ export default function UsageModals() {
 
   return (
     <>
-      <div className="usageButtons" aria-label="JOSIE-2 usage examples">
+      <div className="usageButtons" aria-label="JOSIE-3 usage examples">
         <button type="button" onClick={() => open("transformers")}>
           Use with Transformers <span>↗</span>
         </button>
@@ -123,7 +91,7 @@ export default function UsageModals() {
         <div className="codeDialogPanel">
           <div className="codeDialogHead">
             <div className="codeDialogTitle">
-              <span>JOSIE—2 / Quick start</span>
+              <span>JOSIE—3 / Quick start</span>
               <div className="titleAndModel">
                 <h3 id="code-dialog-title">
                   {active === "transformers" ? "Transformers" : "MLX"}
@@ -139,7 +107,7 @@ export default function UsageModals() {
                   >
                     {models.map((modelId) => (
                       <option value={modelId} key={modelId}>
-                        {modelId.replace("Goekdeniz-Guelmez/JOSIE-2-", "")}
+                        {modelId.replace("josie-labs/JOSIE-3-", "")}
                       </option>
                     ))}
                   </select>
@@ -157,15 +125,23 @@ export default function UsageModals() {
           </div>
           <pre><code>{currentSnippet}</code></pre>
           <div className="inferenceSettings">
-            <span>Recommended inference settings</span>
-            <dl>
-              {settings.map(([parameter, value]) => (
-                <div key={parameter}>
-                  <dt>{parameter}</dt>
-                  <dd>{value}</dd>
-                </div>
+            <span>Reasoning depth</span>
+            <div className="depthPicker" role="radiogroup" aria-label="Reasoning depth">
+              {depths.map((option) => (
+                <button
+                  type="button"
+                  role="radio"
+                  aria-checked={depth === option}
+                  key={option}
+                  onClick={() => {
+                    setDepth(option);
+                    setCopied(false);
+                  }}
+                >
+                  {option}
+                </button>
               ))}
-            </dl>
+            </div>
           </div>
           <button className="copyCode" type="button" onClick={copyCode}>
             {copied ? "Copied" : "Copy code"} <span>{copied ? "✓" : "□"}</span>

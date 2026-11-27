@@ -1,0 +1,1636 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="870" height="860" viewBox="190 130 870 860" role="img" aria-labelledby="title desc">
+<title id="title">JOSIE — flowing wind</title>
+<desc id="desc">The cream dotted tree on a transparent background, with extra fine branches and 168 glowing round-dot leaves matching the supplied reference. Growth takes eight seconds and holds. The woody trunk and roots stay fixed. Branches and the thin upper leader sway softly, while the leaves retain their independent flutter. Nineteen varied stars fade in and out only in the sky above the ground.</desc>
+<metadata>Original logo traced into SVG ellipses, extended with dotted twigs. Leaves are glowing round dots inspired by 1_1_josiefied_orange.png. Fully vector elements with a transparent background; no raster image embedded. Branch bending reduced by approximately 68 percent, with original leaf flutter timings and angles preserved. Stars remain above the ground. No video, external assets, or JavaScript.</metadata>
+<defs><filter id="star-glow" x="-90%" y="-90%" width="280%" height="280%"><feGaussianBlur stdDeviation="2.0"/></filter><filter id="leaf-glow" x="-180%" y="-180%" width="460%" height="460%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2.7"/></filter><filter id="sparkle-glow-0" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3.2"><animate attributeName="stdDeviation" values="2.56;4.22;2.56" dur="6.80s" begin="0.00s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-1" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="1.8"><animate attributeName="stdDeviation" values="1.44;2.38;1.44" dur="7.53s" begin="-0.83s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-2" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="6.4"><animate attributeName="stdDeviation" values="5.12;8.45;5.12" dur="8.26s" begin="-1.66s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-3" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2.7"><animate attributeName="stdDeviation" values="2.16;3.56;2.16" dur="8.99s" begin="-2.49s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-4" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.3"><animate attributeName="stdDeviation" values="3.44;5.68;3.44" dur="9.72s" begin="-3.32s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-5" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="1.6"><animate attributeName="stdDeviation" values="1.28;2.11;1.28" dur="10.45s" begin="-4.15s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-6" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5.8"><animate attributeName="stdDeviation" values="4.64;7.66;4.64" dur="6.80s" begin="-4.98s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-7" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2.4"><animate attributeName="stdDeviation" values="1.92;3.17;1.92" dur="7.53s" begin="-5.81s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-8" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3.8"><animate attributeName="stdDeviation" values="3.04;5.02;3.04" dur="8.26s" begin="-6.64s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-9" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5.2"><animate attributeName="stdDeviation" values="4.16;6.86;4.16" dur="8.99s" begin="-7.47s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-10" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2"><animate attributeName="stdDeviation" values="1.60;2.64;1.60" dur="9.72s" begin="-8.30s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-11" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="3.6"><animate attributeName="stdDeviation" values="2.88;4.75;2.88" dur="10.45s" begin="-9.13s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-12" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2.5"><animate attributeName="stdDeviation" values="2.00;3.30;2.00" dur="6.80s" begin="-9.96s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-13" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5.7"><animate attributeName="stdDeviation" values="4.56;7.52;4.56" dur="7.53s" begin="-10.79s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-14" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2.1"><animate attributeName="stdDeviation" values="1.68;2.77;1.68" dur="8.26s" begin="-11.62s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-15" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.5"><animate attributeName="stdDeviation" values="3.60;5.94;3.60" dur="8.99s" begin="-12.45s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-16" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2.8"><animate attributeName="stdDeviation" values="2.24;3.70;2.24" dur="9.72s" begin="-13.28s" repeatCount="indefinite"/></feGaussianBlur></filter><filter id="sparkle-glow-17" x="-200%" y="-200%" width="500%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="1.5"><animate attributeName="stdDeviation" values="1.20;1.98;1.20" dur="10.45s" begin="-14.11s" repeatCount="indefinite"/></feGaussianBlur></filter></defs>
+<g transform="translate(614.0 840.0) scale(0.56) translate(-614.0 -840.0)">
+<g id="tree" fill="#fff4c0">
+<g data-dot="356" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="612.71" cy="593.42" rx="3.34" ry="4.78">
+
+</ellipse></g>
+<g data-dot="365" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="618.00" cy="595.50" rx="2.53" ry="3.37">
+
+</ellipse></g>
+<g data-dot="370" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="633.83" cy="600.06" rx="2.97" ry="4.14">
+
+</ellipse></g>
+<g data-dot="379" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="613.11" cy="601.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="380" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="618.64" cy="601.45" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="381" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="639.20" cy="601.40" rx="2.35" ry="1.68">
+
+</ellipse></g>
+<g data-dot="384" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="628.62" cy="604.38" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="388" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="613.23" cy="607.15" rx="2.71" ry="3.38">
+
+</ellipse></g>
+<g data-dot="389" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="634.67" cy="606.75" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="391" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="576.00" cy="607.50" rx="1.15" ry="1.64">
+
+</ellipse></g>
+<g data-dot="392" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="619.00" cy="607.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="396" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="624.21" cy="610.07" rx="3.13" ry="3.13">
+
+</ellipse></g>
+<g data-dot="399" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="617.25" cy="611.67" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="400" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="630.91" cy="611.64" rx="2.43" ry="3.25">
+
+</ellipse></g>
+<g data-dot="408" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 -0.000;0.036 -0.011;0.069 -0.021;0.098 -0.031;0.121 -0.040;0.136 -0.047;0.144 -0.053;0.144 -0.056;0.138 -0.058;0.126 -0.057;0.111 -0.054;0.093 -0.049;0.074 -0.042;0.055 -0.033;0.036 -0.023;0.018 -0.012;0.000 -0.000;-0.018 0.012;-0.036 0.023;-0.055 0.033;-0.074 0.042;-0.093 0.049;-0.111 0.054;-0.126 0.057;-0.138 0.058;-0.144 0.056;-0.144 0.053;-0.136 0.047;-0.121 0.040;-0.098 0.031;-0.069 0.021;-0.036 0.011;-0.000 0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="564.50" cy="615.86" rx="2.79" ry="3.50">
+
+</ellipse></g>
+<g data-dot="409" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="620.82" cy="615.82" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="412" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="613.38" cy="617.62" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="413" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="626.82" cy="617.55" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="417" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="575.58" cy="622.69" rx="4.56" ry="5.12">
+
+</ellipse></g>
+<g data-dot="418" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="618.85" cy="620.46" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="421" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="624.25" cy="622.33" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="424" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="582.11" cy="625.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="425" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="613.00" cy="626.50" rx="2.53" ry="3.37">
+
+</ellipse></g>
+<g data-dot="426" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="619.80" cy="626.00" rx="3.11" ry="2.33">
+
+</ellipse></g>
+<g data-dot="430" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="617.00" cy="629.50" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="433" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="585.91" cy="632.36" rx="2.43" ry="3.25">
+
+</ellipse></g>
+<g data-dot="434" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="593.50" cy="632.00" rx="1.80" ry="2.58">
+
+</ellipse></g>
+<g data-dot="437" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="614.50" cy="634.29" rx="3.13" ry="3.13">
+
+</ellipse></g>
+<g data-dot="438" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="621.50" cy="633.00" rx="2.82" ry="2.11">
+
+</ellipse></g>
+<g data-dot="440" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="599.80" cy="635.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="442" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="592.91" cy="638.64" rx="2.43" ry="3.25">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="0.54s" dur="5.23s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="445" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="605.38" cy="640.62" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="446" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="621.25" cy="639.75" rx="3.67" ry="3.67">
+
+</ellipse></g>
+<g data-dot="447" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="598.50" cy="640.80" rx="3.11" ry="2.33">
+
+</ellipse></g>
+<g data-dot="452" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="614.57" cy="642.86" rx="2.66" ry="1.99">
+
+</ellipse></g>
+<g data-dot="455" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="601.00" cy="646.00" rx="2.57" ry="2.57">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="0.00s" dur="4.80s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="456" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.875 0.216;1.698 0.418;2.419 0.593;3.001 0.732;3.416 0.829;3.654 0.879;3.715 0.886;3.614 0.853;3.374 0.787;3.024 0.697;2.594 0.590;2.110 0.474;1.597 0.354;1.068 0.235;0.535 0.117;0.000 0.000;-0.535 -0.117;-1.068 -0.235;-1.597 -0.354;-2.110 -0.474;-2.594 -0.590;-3.024 -0.697;-3.374 -0.787;-3.614 -0.853;-3.715 -0.886;-3.654 -0.879;-3.416 -0.829;-3.001 -0.732;-2.419 -0.593;-1.698 -0.418;-0.875 -0.216;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="720.00" cy="647.00" rx="2.70" ry="3.86">
+
+</ellipse></g>
+<g data-dot="458" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="610.89" cy="647.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="459" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.71" cy="647.00" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="460" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="621.33" cy="647.89" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="462" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="604.58" cy="650.75" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="464" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.50" cy="652.00" rx="2.82" ry="2.11">
+
+</ellipse></g>
+<g data-dot="465" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.677 0.175;1.312 0.338;1.870 0.480;2.319 0.592;2.640 0.670;2.824 0.711;2.871 0.717;2.793 0.690;2.608 0.637;2.337 0.563;2.004 0.477;1.631 0.383;1.234 0.287;0.825 0.190;0.413 0.095;0.000 0.000;-0.413 -0.095;-0.825 -0.190;-1.234 -0.287;-1.631 -0.383;-2.004 -0.477;-2.337 -0.563;-2.608 -0.637;-2.793 -0.690;-2.871 -0.717;-2.824 -0.711;-2.640 -0.670;-2.319 -0.592;-1.870 -0.480;-1.312 -0.338;-0.677 -0.175;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="711.10" cy="652.86" rx="4.12" ry="3.43">
+
+</ellipse></g>
+<g data-dot="467" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="611.00" cy="653.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="472" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="615.38" cy="657.62" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="473" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="623.41" cy="657.88" rx="3.06" ry="3.82">
+
+</ellipse></g>
+<g data-dot="474" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.436 0.121;0.845 0.234;1.204 0.332;1.493 0.410;1.699 0.465;1.816 0.493;1.846 0.497;1.795 0.479;1.674 0.443;1.500 0.392;1.285 0.332;1.045 0.267;0.790 0.200;0.528 0.133;0.264 0.066;0.000 0.000;-0.264 -0.066;-0.528 -0.133;-0.790 -0.200;-1.045 -0.267;-1.285 -0.332;-1.500 -0.392;-1.674 -0.443;-1.795 -0.479;-1.846 -0.497;-1.816 -0.493;-1.699 -0.465;-1.493 -0.410;-1.204 -0.332;-0.845 -0.234;-0.436 -0.121;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="698.41" cy="659.12" rx="3.06" ry="3.82">
+
+</ellipse></g>
+<g data-dot="476" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="610.92" cy="661.00" rx="3.38" ry="4.73">
+
+</ellipse></g>
+<g data-dot="477" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="617.00" cy="663.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="478" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.268 0.081;0.519 0.156;0.739 0.222;0.917 0.274;1.043 0.310;1.115 0.329;1.132 0.332;1.100 0.320;1.026 0.296;0.918 0.263;0.787 0.223;0.639 0.179;0.483 0.134;0.323 0.089;0.162 0.044;0.000 0.000;-0.162 -0.044;-0.323 -0.089;-0.483 -0.134;-0.639 -0.179;-0.787 -0.223;-0.918 -0.263;-1.026 -0.296;-1.100 -0.320;-1.132 -0.332;-1.115 -0.329;-1.043 -0.310;-0.917 -0.274;-0.739 -0.222;-0.519 -0.156;-0.268 -0.081;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="687.73" cy="664.33" rx="2.89" ry="3.61">
+
+</ellipse></g>
+<g data-dot="479" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="621.31" cy="670.50" rx="5.53" ry="5.53">
+
+</ellipse></g>
+<g data-dot="480" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.185 0.059;0.359 0.115;0.512 0.163;0.634 0.202;0.722 0.229;0.771 0.243;0.783 0.245;0.761 0.236;0.709 0.219;0.635 0.194;0.543 0.165;0.441 0.133;0.333 0.099;0.223 0.066;0.111 0.033;0.000 0.000;-0.111 -0.033;-0.223 -0.066;-0.333 -0.099;-0.441 -0.133;-0.543 -0.165;-0.635 -0.194;-0.709 -0.219;-0.761 -0.236;-0.783 -0.245;-0.771 -0.243;-0.722 -0.229;-0.634 -0.202;-0.512 -0.163;-0.359 -0.115;-0.185 -0.059;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="681.50" cy="667.50" rx="3.13" ry="3.13">
+
+</ellipse></g>
+<g data-dot="481" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="612.33" cy="669.44" rx="2.22" ry="2.97">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="0.27s" dur="6.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="482" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.113 0.039;0.218 0.076;0.311 0.108;0.385 0.134;0.438 0.151;0.468 0.161;0.475 0.162;0.462 0.157;0.430 0.145;0.385 0.129;0.329 0.109;0.268 0.088;0.202 0.066;0.135 0.044;0.068 0.022;0.000 0.000;-0.068 -0.022;-0.135 -0.044;-0.202 -0.066;-0.268 -0.088;-0.329 -0.109;-0.385 -0.129;-0.430 -0.145;-0.462 -0.157;-0.475 -0.162;-0.468 -0.161;-0.438 -0.151;-0.385 -0.134;-0.311 -0.108;-0.218 -0.076;-0.113 -0.039;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="675.00" cy="671.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="483" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.049 0.020;0.096 0.038;0.136 0.055;0.169 0.067;0.192 0.076;0.205 0.081;0.208 0.082;0.202 0.079;0.188 0.073;0.168 0.065;0.144 0.055;0.117 0.045;0.088 0.034;0.059 0.022;0.029 0.011;0.000 0.000;-0.029 -0.011;-0.059 -0.022;-0.088 -0.034;-0.117 -0.045;-0.144 -0.055;-0.168 -0.065;-0.188 -0.073;-0.202 -0.079;-0.208 -0.082;-0.205 -0.081;-0.192 -0.076;-0.169 -0.067;-0.136 -0.055;-0.096 -0.038;-0.049 -0.020;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="667.50" cy="674.00" rx="2.97" ry="3.71">
+
+</ellipse></g>
+<g data-dot="484" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="614.75" cy="676.38" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="485" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="619.00" cy="678.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="486" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="653.27" cy="679.82" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="487" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.008 0.004;0.016 0.009;0.022 0.012;0.028 0.015;0.031 0.017;0.034 0.018;0.034 0.019;0.033 0.018;0.031 0.017;0.028 0.015;0.024 0.012;0.019 0.010;0.014 0.008;0.010 0.005;0.005 0.003;0.000 0.000;-0.005 -0.003;-0.010 -0.005;-0.014 -0.008;-0.019 -0.010;-0.024 -0.012;-0.028 -0.015;-0.031 -0.017;-0.033 -0.018;-0.034 -0.019;-0.034 -0.018;-0.031 -0.017;-0.028 -0.015;-0.022 -0.012;-0.016 -0.009;-0.008 -0.004;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="660.00" cy="679.80" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="488" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="615.29" cy="682.50" rx="3.13" ry="3.13">
+
+</ellipse></g>
+<g data-dot="489" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="624.12" cy="680.88" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="490" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="646.11" cy="683.33" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="491" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="651.00" cy="686.20" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="492" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="619.20" cy="687.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="493" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="625.00" cy="687.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="494" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="638.36" cy="687.09" rx="3.25" ry="2.43">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="1.08s" dur="6.52s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="495" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="614.33" cy="690.11" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="496" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="632.50" cy="691.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="497" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="643.21" cy="691.64" rx="3.50" ry="2.79">
+
+</ellipse></g>
+<g data-dot="498" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="620.00" cy="693.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="499" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="626.55" cy="694.36" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="500" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="639.50" cy="695.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="501" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="615.33" cy="697.89" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="502" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="630.00" cy="698.50" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="503" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="620.67" cy="699.08" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="504" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="624.50" cy="703.00" rx="2.97" ry="3.71">
+
+</ellipse></g>
+<g data-dot="505" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="634.31" cy="702.06" rx="3.33" ry="3.33">
+
+</ellipse></g>
+<g data-dot="506" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.50" cy="707.50" rx="3.33" ry="3.33">
+
+</ellipse></g>
+<g data-dot="507" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="629.71" cy="708.50" rx="3.13" ry="3.13">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="0.54s" dur="6.09s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="508" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="619.62" cy="714.62" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="509" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="626.50" cy="714.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="510" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.56" cy="722.85" rx="3.92" ry="4.56">
+
+</ellipse></g>
+<g data-dot="511" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="624.64" cy="722.09" rx="3.25" ry="2.43">
+
+</ellipse></g>
+<g data-dot="512" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="622.00" cy="726.80" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="513" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="626.80" cy="729.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="514" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="620.80" cy="732.00" rx="3.11" ry="2.33">
+
+</ellipse></g>
+<g data-dot="515" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="618.35" cy="737.83" rx="3.39" ry="4.53">
+
+</ellipse></g>
+<g data-dot="516" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="625.91" cy="737.64" rx="2.43" ry="3.25">
+
+</ellipse></g>
+<g data-dot="517" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="617.31" cy="744.81" rx="2.97" ry="3.71">
+
+</ellipse></g>
+<g data-dot="518" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="622.70" cy="747.30" rx="2.69" ry="2.69">
+
+</ellipse></g>
+<g data-dot="519" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="628.06" cy="748.22" rx="3.50" ry="3.50">
+
+</ellipse></g>
+<g data-dot="520" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.62" cy="752.62" rx="3.02" ry="3.02">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="0.00s" dur="5.66s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="521" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="623.00" cy="754.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="522" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="627.92" cy="757.83" rx="2.45" ry="3.49">
+
+</ellipse></g>
+<g data-dot="523" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="623.09" cy="760.36" rx="2.43" ry="3.25">
+
+</ellipse></g>
+<g data-dot="524" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="617.62" cy="762.62" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="525" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="628.27" cy="764.67" rx="2.89" ry="3.61">
+
+</ellipse></g>
+<g data-dot="526" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="620.83" cy="768.00" rx="2.61" ry="3.26">
+
+</ellipse></g>
+<g data-dot="527" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="617.31" cy="772.06" rx="2.97" ry="3.71">
+
+</ellipse></g>
+<g data-dot="528" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="628.64" cy="773.79" rx="2.79" ry="3.50">
+
+</ellipse></g>
+<g data-dot="529" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="623.12" cy="775.88" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="530" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.50" cy="777.71" rx="3.13" ry="3.13">
+
+</ellipse></g>
+<g data-dot="531" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="621.00" cy="782.17" rx="3.26" ry="2.61">
+
+</ellipse></g>
+<g data-dot="532" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="630.00" cy="783.50" rx="2.53" ry="3.37">
+
+</ellipse></g>
+<g data-dot="533" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="615.09" cy="785.64" rx="2.43" ry="3.25">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="0.81s" dur="5.23s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="534" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="622.85" cy="788.46" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="535" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="615.00" cy="792.20" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="536" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="628.84" cy="791.84" rx="3.59" ry="3.59">
+
+</ellipse></g>
+<g data-dot="537" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="624.55" cy="795.64" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="538" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="614.23" cy="798.85" rx="2.71" ry="3.38">
+
+</ellipse></g>
+<g data-dot="539" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="619.00" cy="797.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="540" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="629.12" cy="797.88" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="541" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="630.00" cy="802.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="542" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.62" cy="805.85" rx="3.47" ry="4.96">
+
+</ellipse></g>
+<g data-dot="543" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="630.40" cy="807.93" rx="2.94" ry="3.54">
+
+</ellipse></g>
+<g data-dot="544" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="622.50" cy="807.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="545" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="611.67" cy="812.11" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="546" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="617.67" cy="814.11" rx="2.97" ry="2.22">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="0.27s" dur="4.80s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="547" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="626.33" cy="814.11" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="548" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="632.00" cy="816.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="549" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="610.00" cy="818.75" rx="2.15" ry="1.54">
+
+</ellipse></g>
+<g data-dot="550" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="618.82" cy="819.18" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="551" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="623.55" cy="821.15" rx="3.41" ry="3.97">
+
+</ellipse></g>
+<g data-dot="552" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="611.88" cy="822.12" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="553" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="630.65" cy="823.22" rx="3.93" ry="3.93">
+
+</ellipse></g>
+<g data-dot="554" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="616.00" cy="825.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="555" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="607.50" cy="829.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="556" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="613.89" cy="830.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="557" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="623.00" cy="829.80" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="558" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="634.00" cy="829.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="559" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="610.83" cy="833.83" rx="2.15" ry="2.15">
+<animate attributeName="opacity" values="1;0.68;1" keyTimes="0;.5;1" begin="1.08s" dur="7.38s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="560" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="618.77" cy="834.85" rx="2.71" ry="3.38">
+
+</ellipse></g>
+<g data-dot="561" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="635.75" cy="834.33" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="562" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="606.50" cy="835.00" rx="1.80" ry="2.58">
+
+</ellipse></g>
+<g data-dot="563" data-region="tree" data-wind-kind="trunk">
+
+<ellipse cx="629.11" cy="835.33" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="1277" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.288 0.085;0.559 0.164;0.796 0.233;0.986 0.288;1.121 0.327;1.197 0.348;1.215 0.351;1.179 0.339;1.098 0.314;0.982 0.279;0.840 0.237;0.682 0.191;0.514 0.144;0.344 0.096;0.172 0.048;0.000 0.000;-0.172 -0.048;-0.344 -0.096;-0.514 -0.144;-0.682 -0.191;-0.840 -0.237;-0.982 -0.279;-1.098 -0.314;-1.179 -0.339;-1.215 -0.351;-1.197 -0.348;-1.121 -0.327;-0.986 -0.288;-0.796 -0.233;-0.559 -0.164;-0.288 -0.085;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="688.59" cy="659.46" rx="1.59" ry="1.71">
+
+</ellipse></g>
+<g data-dot="1278" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.311 0.089;0.603 0.173;0.858 0.246;1.063 0.304;1.208 0.345;1.289 0.368;1.307 0.372;1.267 0.360;1.179 0.334;1.052 0.297;0.899 0.253;0.729 0.205;0.549 0.154;0.367 0.102;0.183 0.051;0.000 0.000;-0.183 -0.051;-0.367 -0.102;-0.549 -0.154;-0.729 -0.205;-0.899 -0.253;-1.052 -0.297;-1.179 -0.334;-1.267 -0.360;-1.307 -0.372;-1.289 -0.368;-1.208 -0.345;-1.063 -0.304;-0.858 -0.246;-0.603 -0.173;-0.311 -0.089;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="689.55" cy="654.62" rx="1.50" ry="1.62">
+
+</ellipse></g>
+<g data-dot="1279" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.336 0.094;0.652 0.182;0.927 0.260;1.148 0.321;1.303 0.365;1.389 0.389;1.407 0.394;1.363 0.382;1.267 0.355;1.130 0.317;0.964 0.270;0.780 0.219;0.588 0.165;0.392 0.110;0.196 0.055;0.000 0.000;-0.196 -0.055;-0.392 -0.110;-0.588 -0.165;-0.780 -0.219;-0.964 -0.270;-1.130 -0.317;-1.267 -0.355;-1.363 -0.382;-1.407 -0.394;-1.389 -0.389;-1.303 -0.365;-1.148 -0.321;-0.927 -0.260;-0.652 -0.182;-0.336 -0.094;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="690.62" cy="649.81" rx="1.43" ry="1.55">
+
+</ellipse></g>
+<g data-dot="1280" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.364 0.099;0.705 0.193;1.002 0.274;1.240 0.340;1.407 0.387;1.499 0.413;1.518 0.419;1.469 0.406;1.363 0.378;1.214 0.338;1.035 0.289;0.837 0.235;0.630 0.177;0.419 0.118;0.209 0.059;0.000 0.000;-0.209 -0.059;-0.419 -0.118;-0.630 -0.177;-0.837 -0.235;-1.035 -0.289;-1.214 -0.338;-1.363 -0.378;-1.469 -0.406;-1.518 -0.419;-1.499 -0.413;-1.407 -0.387;-1.240 -0.340;-1.002 -0.274;-0.705 -0.193;-0.364 -0.099;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="691.79" cy="645.03" rx="1.42" ry="1.54">
+
+</ellipse></g>
+<g data-dot="1281" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.394 0.105;0.763 0.204;1.084 0.290;1.341 0.360;1.521 0.410;1.620 0.438;1.638 0.445;1.584 0.432;1.469 0.403;1.307 0.361;1.113 0.309;0.899 0.252;0.676 0.190;0.450 0.127;0.224 0.064;0.000 0.000;-0.224 -0.064;-0.450 -0.127;-0.676 -0.190;-0.899 -0.252;-1.113 -0.309;-1.307 -0.361;-1.469 -0.403;-1.584 -0.432;-1.638 -0.445;-1.620 -0.438;-1.521 -0.410;-1.341 -0.360;-1.084 -0.290;-0.763 -0.204;-0.394 -0.105;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="693.07" cy="640.29" rx="1.46" ry="1.58">
+
+</ellipse></g>
+<g data-dot="1282" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.426 0.111;0.826 0.216;1.174 0.307;1.452 0.381;1.646 0.434;1.751 0.465;1.770 0.473;1.710 0.460;1.584 0.430;1.408 0.386;1.197 0.331;0.966 0.270;0.726 0.204;0.483 0.137;0.241 0.068;0.000 0.000;-0.241 -0.068;-0.483 -0.137;-0.726 -0.204;-0.966 -0.270;-1.197 -0.331;-1.408 -0.386;-1.584 -0.430;-1.710 -0.460;-1.770 -0.473;-1.751 -0.465;-1.646 -0.434;-1.452 -0.381;-1.174 -0.307;-0.826 -0.216;-0.426 -0.111;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="694.45" cy="635.58" rx="1.54" ry="1.66">
+
+</ellipse></g>
+<g data-dot="1283" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.462 0.118;0.895 0.228;1.271 0.325;1.571 0.404;1.781 0.461;1.894 0.494;1.912 0.503;1.846 0.491;1.709 0.459;1.518 0.413;1.289 0.355;1.039 0.290;0.780 0.220;0.518 0.147;0.258 0.074;0.000 0.000;-0.258 -0.074;-0.518 -0.147;-0.780 -0.220;-1.039 -0.290;-1.289 -0.355;-1.518 -0.413;-1.709 -0.459;-1.846 -0.491;-1.912 -0.503;-1.894 -0.494;-1.781 -0.461;-1.571 -0.404;-1.271 -0.325;-0.895 -0.228;-0.462 -0.118;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="695.95" cy="630.90" rx="1.64" ry="1.78">
+
+</ellipse></g>
+<g data-dot="1284" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.491 0.123;0.950 0.238;1.350 0.339;1.668 0.422;1.890 0.481;2.009 0.516;2.027 0.527;1.955 0.514;1.809 0.482;1.605 0.434;1.362 0.374;1.097 0.306;0.823 0.232;0.546 0.156;0.272 0.078;0.000 0.000;-0.272 -0.078;-0.546 -0.156;-0.823 -0.232;-1.097 -0.306;-1.362 -0.374;-1.605 -0.434;-1.809 -0.482;-1.955 -0.514;-2.027 -0.527;-2.009 -0.516;-1.890 -0.481;-1.668 -0.422;-1.350 -0.339;-0.950 -0.238;-0.491 -0.123;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="697.54" cy="626.26" rx="1.76" ry="1.91">
+
+</ellipse></g>
+<g data-dot="1289" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.374 0.097;0.723 0.189;1.028 0.270;1.269 0.336;1.438 0.383;1.528 0.411;1.541 0.420;1.486 0.410;1.374 0.385;1.219 0.347;1.034 0.299;0.833 0.245;0.624 0.186;0.414 0.125;0.206 0.063;0.000 0.000;-0.206 -0.063;-0.414 -0.125;-0.624 -0.186;-0.833 -0.245;-1.034 -0.299;-1.219 -0.347;-1.374 -0.385;-1.486 -0.410;-1.541 -0.420;-1.528 -0.411;-1.438 -0.383;-1.269 -0.336;-1.028 -0.270;-0.723 -0.189;-0.374 -0.097;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="690.37" cy="629.42" rx="1.58" ry="1.70">
+
+</ellipse></g>
+<g data-dot="1290" data-region="tree" data-wind-kind="branch">
+<animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.308 0.082;0.597 0.159;0.848 0.227;1.046 0.282;1.184 0.323;1.257 0.347;1.267 0.356;1.220 0.349;1.126 0.328;0.997 0.297;0.845 0.257;0.679 0.211;0.508 0.161;0.337 0.108;0.168 0.054;0.000 0.000;-0.168 -0.054;-0.337 -0.108;-0.508 -0.161;-0.679 -0.211;-0.845 -0.257;-0.997 -0.297;-1.126 -0.328;-1.220 -0.349;-1.267 -0.356;-1.257 -0.347;-1.184 -0.323;-1.046 -0.282;-0.848 -0.227;-0.597 -0.159;-0.308 -0.082;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/>
+<ellipse cx="686.09" cy="625.10" rx="1.42" ry="1.54">
+
+</ellipse></g>
+<g data-dot="564" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="618.72" cy="839.64" rx="4.70" ry="3.53">
+
+</ellipse></g>
+<g data-dot="565" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="610.33" cy="840.11" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="566" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="637.50" cy="840.20" rx="3.11" ry="2.33">
+
+</ellipse></g>
+<g data-dot="567" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="605.36" cy="841.55" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="568" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="632.12" cy="843.38" rx="3.03" ry="3.63">
+
+</ellipse></g>
+<g data-dot="569" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="597.50" cy="846.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="570" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="602.67" cy="846.11" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="571" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="609.67" cy="845.89" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="572" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="624.50" cy="845.50" rx="2.91" ry="2.91">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.54s" dur="6.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="573" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="639.89" cy="846.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="574" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="645.00" cy="845.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="575" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="587.00" cy="848.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="576" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="593.29" cy="848.00" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="577" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="615.62" cy="848.62" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="578" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="651.00" cy="847.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="579" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="579.12" cy="848.88" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="580" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="623.33" cy="851.67" rx="5.00" ry="3.57">
+
+</ellipse></g>
+<g data-dot="581" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="635.50" cy="850.00" rx="2.97" ry="3.71">
+
+</ellipse></g>
+<g data-dot="582" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="655.50" cy="850.00" rx="3.11" ry="2.33">
+
+</ellipse></g>
+<g data-dot="583" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="561.25" cy="852.75" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="584" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="570.80" cy="851.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="585" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="599.00" cy="852.00" rx="2.57" ry="2.57">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.00s" dur="6.52s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="586" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="606.56" cy="854.64" rx="3.81" ry="4.36">
+
+</ellipse></g>
+<g data-dot="587" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="644.12" cy="851.12" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="588" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="660.20" cy="852.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="589" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="666.00" cy="851.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="590" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="583.00" cy="853.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="591" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="588.09" cy="853.64" rx="2.43" ry="3.25">
+
+</ellipse></g>
+<g data-dot="592" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="593.29" cy="853.00" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="593" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="613.00" cy="854.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="594" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="631.00" cy="853.80" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="595" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="651.09" cy="854.64" rx="2.43" ry="3.25">
+
+</ellipse></g>
+<g data-dot="596" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="674.17" cy="855.00" rx="2.61" ry="3.26">
+
+</ellipse></g>
+<g data-dot="597" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="545.67" cy="855.11" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="598" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="566.89" cy="855.67" rx="2.22" ry="2.97">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.81s" dur="6.09s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="599" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="574.50" cy="855.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="600" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="616.68" cy="857.95" rx="3.55" ry="4.16">
+
+</ellipse></g>
+<g data-dot="601" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="682.75" cy="855.42" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="602" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="551.82" cy="857.55" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="603" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="557.33" cy="858.44" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="604" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="580.00" cy="857.20" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="605" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="642.00" cy="857.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="606" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="663.20" cy="858.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="607" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="690.07" cy="859.93" rx="4.52" ry="3.96">
+
+</ellipse></g>
+<g data-dot="608" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="531.25" cy="860.42" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="609" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="563.20" cy="860.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="610" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="571.00" cy="858.71" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="611" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="593.50" cy="858.50" rx="1.82" ry="1.82">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.27s" dur="5.66s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="612" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="622.70" cy="860.30" rx="2.69" ry="2.69">
+
+</ellipse></g>
+<g data-dot="613" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="632.19" cy="861.69" rx="3.66" ry="4.70">
+
+</ellipse></g>
+<g data-dot="614" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="657.00" cy="859.50" rx="2.55" ry="1.82">
+
+</ellipse></g>
+<g data-dot="615" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="679.10" cy="860.60" rx="2.69" ry="2.69">
+
+</ellipse></g>
+<g data-dot="616" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="699.80" cy="860.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="617" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="522.20" cy="861.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="618" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="538.89" cy="862.33" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="619" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="544.50" cy="861.00" rx="2.82" ry="2.11">
+
+</ellipse></g>
+<g data-dot="620" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="549.00" cy="862.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="621" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="584.00" cy="862.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="622" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="601.11" cy="861.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="623" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="666.68" cy="863.79" rx="3.33" ry="3.88">
+
+</ellipse></g>
+<g data-dot="624" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="684.67" cy="862.27" rx="3.61" ry="2.89">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="1.08s" dur="5.23s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="625" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="710.14" cy="864.67" rx="3.15" ry="4.50">
+
+</ellipse></g>
+<g data-dot="626" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="555.62" cy="864.38" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="627" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="674.20" cy="863.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="628" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="705.50" cy="863.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="629" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="511.38" cy="865.38" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="630" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="530.71" cy="866.07" rx="2.79" ry="3.50">
+
+</ellipse></g>
+<g data-dot="631" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="535.50" cy="865.00" rx="2.82" ry="2.11">
+
+</ellipse></g>
+<g data-dot="632" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="569.17" cy="865.17" rx="2.15" ry="2.15">
+
+</ellipse></g>
+<g data-dot="633" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="591.88" cy="864.88" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="634" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="612.33" cy="866.11" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="635" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="650.38" cy="865.75" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="636" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="718.11" cy="865.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="637" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="723.00" cy="866.29" rx="2.30" ry="2.30">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.54s" dur="4.80s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="638" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="731.58" cy="867.33" rx="2.45" ry="3.49">
+
+</ellipse></g>
+<g data-dot="639" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="502.11" cy="868.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="640" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="518.50" cy="867.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="641" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="581.62" cy="868.25" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="642" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="622.71" cy="867.00" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="643" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="700.00" cy="868.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="644" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="704.33" cy="867.78" rx="2.97" ry="2.22">
+
+</ellipse></g>
+<g data-dot="645" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="492.00" cy="870.17" rx="3.26" ry="2.61">
+
+</ellipse></g>
+<g data-dot="646" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="527.11" cy="869.33" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="647" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="540.00" cy="870.00" rx="1.99" ry="1.99">
+
+</ellipse></g>
+<g data-dot="648" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="550.89" cy="869.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="649" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="597.50" cy="869.00" rx="3.11" ry="2.33">
+
+</ellipse></g>
+<g data-dot="650" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="618.75" cy="870.00" rx="1.52" ry="2.16">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.00s" dur="7.38s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="651" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="639.15" cy="870.54" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="652" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="655.50" cy="870.71" rx="3.13" ry="3.13">
+
+</ellipse></g>
+<g data-dot="653" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="690.88" cy="869.12" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="654" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="741.91" cy="869.64" rx="2.43" ry="3.25">
+
+</ellipse></g>
+<g data-dot="655" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="513.25" cy="871.33" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="656" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="676.00" cy="872.20" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="657" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="726.43" cy="872.29" rx="1.92" ry="2.75">
+
+</ellipse></g>
+<g data-dot="658" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="479.89" cy="874.33" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="659" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="487.50" cy="872.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="660" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="497.88" cy="873.12" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="661" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="505.00" cy="874.20" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="662" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="534.50" cy="873.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="663" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="603.91" cy="874.64" rx="2.43" ry="3.25">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.81s" dur="6.95s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="664" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="668.20" cy="873.00" rx="3.11" ry="2.33">
+
+</ellipse></g>
+<g data-dot="665" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="710.11" cy="874.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="667" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="580.36" cy="875.55" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="668" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="619.00" cy="876.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="669" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="624.40" cy="875.20" rx="1.67" ry="2.38">
+
+</ellipse></g>
+<g data-dot="670" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="686.29" cy="876.00" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="671" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="717.73" cy="876.67" rx="2.89" ry="3.61">
+
+</ellipse></g>
+<g data-dot="672" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="746.06" cy="875.78" rx="3.50" ry="3.50">
+
+</ellipse></g>
+<g data-dot="673" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="754.50" cy="874.00" rx="1.63" ry="1.16">
+
+</ellipse></g>
+<g data-dot="674" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="467.88" cy="878.12" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="675" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="485.00" cy="878.50" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="676" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="521.83" cy="878.00" rx="2.61" ry="3.26">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.27s" dur="6.52s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="677" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="545.88" cy="877.88" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="678" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="563.00" cy="877.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="679" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="611.67" cy="877.67" rx="1.62" ry="1.62">
+
+</ellipse></g>
+<g data-dot="680" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="615.25" cy="877.00" rx="1.52" ry="2.16">
+
+</ellipse></g>
+<g data-dot="681" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="630.00" cy="878.50" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="682" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="751.64" cy="878.55" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="683" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="759.50" cy="877.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="686" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="477.00" cy="879.71" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="687" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="550.17" cy="880.17" rx="2.15" ry="2.15">
+
+</ellipse></g>
+<g data-dot="688" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="598.56" cy="880.22" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="689" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="644.00" cy="879.50" rx="2.11" ry="2.82">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="1.08s" dur="6.09s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="690" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="674.50" cy="879.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="691" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="694.82" cy="880.18" rx="2.81" ry="2.81">
+
+</ellipse></g>
+<g data-dot="692" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="733.00" cy="880.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="694" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="472.50" cy="881.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="695" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="505.50" cy="881.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="696" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="655.83" cy="880.83" rx="2.15" ry="2.15">
+
+</ellipse></g>
+<g data-dot="697" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="729.00" cy="881.50" rx="2.55" ry="1.82">
+
+</ellipse></g>
+<g data-dot="700" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="491.12" cy="883.12" rx="2.45" ry="2.45">
+
+</ellipse></g>
+<g data-dot="701" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="534.17" cy="882.83" rx="2.15" ry="2.15">
+
+</ellipse></g>
+<g data-dot="702" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="588.30" cy="884.70" rx="2.69" ry="2.69">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.54s" dur="5.66s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="703" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="660.73" cy="884.67" rx="2.89" ry="3.61">
+
+</ellipse></g>
+<g data-dot="708" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="513.89" cy="886.33" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="709" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="572.50" cy="886.50" rx="2.04" ry="2.91">
+
+</ellipse></g>
+<g data-dot="710" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="708.50" cy="886.00" rx="2.82" ry="2.11">
+
+</ellipse></g>
+<g data-dot="714" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="477.11" cy="887.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="715" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="529.83" cy="888.17" rx="2.15" ry="2.15">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.00s" dur="5.23s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="716" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="622.11" cy="888.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="723" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="501.30" cy="890.70" rx="2.69" ry="2.69">
+
+</ellipse></g>
+<g data-dot="724" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="610.00" cy="889.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="725" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="646.23" cy="889.54" rx="3.58" ry="2.55">
+
+</ellipse></g>
+<g data-dot="726" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="740.89" cy="890.33" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="727" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="752.11" cy="889.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="728" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="758.80" cy="890.50" rx="2.33" ry="3.11">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.81s" dur="4.80s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="729" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="492.50" cy="891.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="730" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="632.71" cy="892.00" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="731" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="665.78" cy="892.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="732" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="689.50" cy="892.00" rx="1.80" ry="2.58">
+
+</ellipse></g>
+<g data-dot="738" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="527.50" cy="893.00" rx="1.80" ry="2.58">
+
+</ellipse></g>
+<g data-dot="739" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="542.50" cy="893.50" rx="2.91" ry="2.91">
+
+</ellipse></g>
+<g data-dot="740" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="591.75" cy="894.00" rx="1.52" ry="2.16">
+
+</ellipse></g>
+<g data-dot="741" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="685.30" cy="894.70" rx="2.69" ry="2.69">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.27s" dur="7.38s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="742" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="706.25" cy="893.38" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="748" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="564.40" cy="895.20" rx="1.67" ry="2.38">
+
+</ellipse></g>
+<g data-dot="749" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="725.85" cy="895.54" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="755" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="487.00" cy="897.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="756" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="505.33" cy="896.67" rx="1.62" ry="1.62">
+
+</ellipse></g>
+<g data-dot="762" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="746.71" cy="899.00" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="764" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="471.00" cy="902.00" rx="2.35" ry="3.35">
+
+</ellipse></g>
+<g data-dot="765" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="595.00" cy="901.80" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="771" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="508.89" cy="904.67" rx="2.22" ry="2.97">
+
+</ellipse></g>
+<g data-dot="772" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="548.20" cy="903.50" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="773" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="580.50" cy="904.00" rx="2.82" ry="2.11">
+
+</ellipse></g>
+<g data-dot="774" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="723.00" cy="904.20" rx="2.33" ry="3.11">
+
+</ellipse></g>
+<g data-dot="783" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="615.00" cy="908.00" rx="2.57" ry="2.57">
+
+</ellipse></g>
+<g data-dot="786" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="751.70" cy="910.70" rx="2.69" ry="2.69">
+
+</ellipse></g>
+<g data-dot="791" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="569.17" cy="913.00" rx="2.61" ry="3.26">
+
+</ellipse></g>
+<g data-dot="792" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="645.50" cy="911.12" rx="2.82" ry="2.11">
+
+</ellipse></g>
+<g data-dot="796" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="692.50" cy="913.50" rx="1.82" ry="1.82">
+
+</ellipse></g>
+<g data-dot="799" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="532.00" cy="915.29" rx="2.30" ry="2.30">
+
+</ellipse></g>
+<g data-dot="800" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="700.00" cy="915.50" rx="2.11" ry="2.82">
+
+</ellipse></g>
+<g data-dot="806" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="483.11" cy="918.67" rx="2.22" ry="2.97">
+<animate attributeName="opacity" values="1;0.53;1" keyTimes="0;.5;1" begin="0.27s" dur="5.23s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/>
+</ellipse></g>
+<g data-dot="807" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="690.50" cy="918.00" rx="1.80" ry="2.58">
+
+</ellipse></g>
+<g data-dot="817" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="679.30" cy="924.70" rx="2.69" ry="2.69">
+
+</ellipse></g>
+<g data-dot="828" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="732.00" cy="931.00" rx="3.02" ry="3.02">
+
+</ellipse></g>
+<g data-dot="834" data-region="roots" data-wind-kind="roots">
+
+<ellipse cx="506.91" cy="933.64" rx="2.43" ry="3.25">
+
+</ellipse></g>
+</g>
+<g id="leaves">
+<g data-leaf="154" data-wind-kind="branch"><animateTransform attributeName="transform" type="translate" values="0.000 0.000;0.418 0.110;0.810 0.213;1.152 0.303;1.424 0.376;1.615 0.428;1.719 0.458;1.737 0.466;1.678 0.454;1.555 0.424;1.383 0.380;1.176 0.326;0.949 0.265;0.713 0.201;0.474 0.134;0.237 0.067;0.000 0.000;-0.237 -0.067;-0.474 -0.134;-0.713 -0.201;-0.949 -0.265;-1.176 -0.326;-1.383 -0.380;-1.555 -0.424;-1.678 -0.454;-1.737 -0.466;-1.719 -0.458;-1.615 -0.428;-1.424 -0.376;-1.152 -0.303;-0.810 -0.213;-0.418 -0.110;-0.000 -0.000" keyTimes="0.00000;0.03125;0.06250;0.09375;0.12500;0.15625;0.18750;0.21875;0.25000;0.28125;0.31250;0.34375;0.37500;0.40625;0.43750;0.46875;0.50000;0.53125;0.56250;0.59375;0.62500;0.65625;0.68750;0.71875;0.75000;0.78125;0.81250;0.84375;0.87500;0.90625;0.93750;0.96875;1.00000" begin="0s" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80;.20 .20 .80 .80"/><g transform="translate(694.11 636.71)"><g class="leaf-growth"><g transform="rotate(-110.96)"><g class="leaf-flutter"><animateTransform attributeName="transform" type="rotate" values="0;-15.5;0;10.8;0" keyTimes="0;.25;.5;.75;1" begin="0s" dur="3.57s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1"/><g class="leaf" data-leaf-style="glowing-dot"><circle class="leaf-stem-dot" cx="3.10" cy="0" r=".94" fill="#fff4c0"/><circle class="leaf-stem-dot" cx="6.70" cy="0" r=".94" fill="#fff4c0"/><circle class="leaf-glow" cx="13.44" cy="0" r="4.15" fill="#ffe7a0" opacity=".68" filter="url(#leaf-glow)"/><circle class="leaf-dot" cx="13.44" cy="0" r="3.61" fill="#fff7cf"/></g></g></g></g></g></g>
+
+</g>
+</g>
+<g id="stars" fill="#fff5c6">
+<g id="original-star"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.18;.46;.65;1" dur="8.8s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;.42 0 .58 1;0 0 1 1;.42 0 .58 1"/>
+<g opacity=".28" filter="url(#star-glow)"><path d="M349,688 L349,689 Z"/><path d="M347,691 L348,691 Z"/><path d="M347,695 Z"/><path d="M350,697 Z"/><path d="M346,698 L347,698 Z"/><path d="M351,699 L351,700 L350,701 L349,700 L349,699 L348,700 L348,701 L349,702 L345,706 L344,705 L344,704 L346,702 L343,705 L343,706 L342,707 L342,708 L343,709 L341,711 L340,710 L338,710 L335,713 L334,713 L336,713 L337,714 L339,714 L340,715 L340,716 L339,717 L338,717 L341,716 L344,719 L344,720 L345,720 L346,719 L348,721 L348,725 L349,725 L349,724 L353,720 L351,722 L350,721 L350,720 L352,718 L353,718 L356,715 L357,716 L358,715 L359,715 L358,714 L358,713 L359,712 L360,713 L361,712 L362,713 L362,712 L363,711 L362,712 L360,712 L359,711 L357,711 L356,710 L357,707 L356,707 L356,708 L355,709 L354,709 L353,708 L354,707 L354,705 L351,705 L350,704 L350,702 L351,701 Z"/><path d="M356,718 Z"/><path d="M345,724 L345,725 L349,729 L350,728 L350,727 L349,727 L348,728 L345,725 Z"/><path d="M349,731 L348,731 L348,732 Z"/><path d="M345,733 Z"/><path d="M349,736 L349,737 Z"/><animate attributeName="opacity" values=".28;.10;.28" dur="5.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></g>
+<g><path d="M349,688 L349,689 Z"/><path d="M347,691 L348,691 Z"/><path d="M347,695 Z"/><path d="M350,697 Z"/><path d="M346,698 L347,698 Z"/><path d="M351,699 L351,700 L350,701 L349,700 L349,699 L348,700 L348,701 L349,702 L345,706 L344,705 L344,704 L346,702 L343,705 L343,706 L342,707 L342,708 L343,709 L341,711 L340,710 L338,710 L335,713 L334,713 L336,713 L337,714 L339,714 L340,715 L340,716 L339,717 L338,717 L341,716 L344,719 L344,720 L345,720 L346,719 L348,721 L348,725 L349,725 L349,724 L353,720 L351,722 L350,721 L350,720 L352,718 L353,718 L356,715 L357,716 L358,715 L359,715 L358,714 L358,713 L359,712 L360,713 L361,712 L362,713 L362,712 L363,711 L362,712 L360,712 L359,711 L357,711 L356,710 L357,707 L356,707 L356,708 L355,709 L354,709 L353,708 L354,707 L354,705 L351,705 L350,704 L350,702 L351,701 Z"/><path d="M356,718 Z"/><path d="M345,724 L345,725 L349,729 L350,728 L350,727 L349,727 L348,728 L345,725 Z"/><path d="M349,731 L348,731 L348,732 Z"/><path d="M345,733 Z"/><path d="M349,736 L349,737 Z"/><animate attributeName="opacity" values="1;.62;1" dur="5.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></g>
+</g>
+<g data-additional-star="0" data-y="298" data-radius="11" data-glow="3.2" transform="translate(268 298)"><animate attributeName="opacity" values="0;0;.25;1;.65;0;0" keyTimes="0;.10;.25;.48;.62;.82;1" dur="7.10s" begin="-1.207s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1;.42 0 .58 1;0 0 1 1"/><g class="star-size"><animateTransform attributeName="transform" type="scale" values=".88;1.06;.88" keyTimes="0;.5;1" dur="7.10s" begin="-1.207s" repeatCount="indefinite" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1"/><g transform="rotate(-18)"><path d="M0 -11 Q1.98 -1.98 11 0 Q1.98 1.98 0 11 Q-1.98 1.98 -11 0 Q-1.98 -1.98 0 -11Z" opacity=".70" filter="url(#sparkle-glow-0)"/><path d="M0 -11 Q1.98 -1.98 11 0 Q1.98 1.98 0 11 Q-1.98 1.98 -11 0 Q-1.98 -1.98 0 -11Z" opacity=".95"/></g></g></g>
+
+</g></svg>
