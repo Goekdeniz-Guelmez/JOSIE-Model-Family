@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "JOSIE — Growing Intelligence",
     description:
-      "Three generations of uncensored, high-performance, personality-driven language models.",
+      "Four generations of personality-driven language models, now JOSIE-3 with selectable reasoning depth.",
     images: [{ url: publicAsset("og.png"), width: 1200, height: 630, alt: "JOSIE — Growing Intelligence" }],
     type: "website",
   },
